@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherTeste</string>
+    <string name="indice_de_qualidade_do_ar">Índice de qualidade do ar</string>
+    <string name="nome_da_cidade">Nome da cidade</string>
+    <string name="cidade_busca">Cidade: São Paulo / SP</string>
+    <string name="microgramas">*: μg/m3 - Microgramas/metro cúbico</string>
+</resources>
